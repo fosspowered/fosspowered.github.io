@@ -17,8 +17,8 @@ title: FOSSPowered Blog
 email: anurag@fosspowered.com
 description: > # this means to ignore newlines until "baseurl:"
         Programming and Open Source.
-baseurl: "https://fosspowered.com" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.fosspowered.com" # the base hostname & protocol for your site
 twitter_username: fosspowered
 github_username:  fosspowered
 
