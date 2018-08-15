@@ -2,7 +2,7 @@
 layout: post
 title:  "List Comprehension in Haskell"
 date:   2018-08-15 17:55:00 +0530
-categories: haskell programming
+categories: programming haskell
 ---
 * TOC
 {:toc}

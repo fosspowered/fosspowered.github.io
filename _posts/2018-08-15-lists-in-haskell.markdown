@@ -2,7 +2,7 @@
 layout: post
 title:  "Lists in Haskell"
 date:   2018-08-15 16:55:00 +0530
-categories: haskell programming
+categories: programming haskell
 ---
 * TOC
 {:toc}

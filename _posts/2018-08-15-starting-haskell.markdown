@@ -2,7 +2,7 @@
 layout: post
 title:  "Starting Haskell"
 date:   2018-08-15 16:30:00 +0530
-categories: haskell programming
+categories: programming haskell
 ---
 We use `GHCi` for interactive programming with Haskell.
 

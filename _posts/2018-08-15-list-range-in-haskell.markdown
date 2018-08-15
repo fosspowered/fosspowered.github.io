@@ -2,7 +2,7 @@
 layout: post
 title:  "List Ranges in Haskell"
 date:   2018-08-15 17:30:00 +0530
-categories: haskell programming
+categories: programming haskell
 ---
 * TOC
 {:toc}
