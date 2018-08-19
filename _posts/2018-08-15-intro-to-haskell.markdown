@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Haskell"
 date:   2018-08-15 16:00:00 +0530
-categories: jekyll update
+categories: programming haskell
 ---
 [Haskell][haskell-wikipedia] is a standardized, general-purpose compiled purely functional programming language, with non-strict semantics and strong static typing.
 

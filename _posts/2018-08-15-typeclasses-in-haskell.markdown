@@ -2,7 +2,7 @@
 layout: post
 title:  "Typeclasses in Haskell"
 date:   2018-08-15 20:00:00 +0530
-categories: haskell programming
+categories: programming haskell
 ---
 * TOC
 {:toc}
@@ -36,7 +36,7 @@ elem :: (Foldable t, Eq a) => a -> t a -> Bool
 
 Here the type of the element and the element array individual element must be same and that type should implement `Eq`.
 
-For example this won't work: elem `'dog' [1, 2, 3]`.
+For example this won't work: `elem 'dog' [1, 2, 3]`.
 
 ## Basic Typeclasses
 
